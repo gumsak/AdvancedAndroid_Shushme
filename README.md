@@ -15,9 +15,9 @@ Each code repository in this class has a chain of commits that looks like this:
 
 ![listofcommits](https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58befe2e_listofcommits/listofcommits.png)
 
-These commits show every step you'll take to create the app. They include **Exercise** commits and **Solution** commits. 
+These commits show every step you'll take to create the app. They include **Exercise** commits and **Solution** commits.
 
-Exercise commits contain instructions for completing the exercise, while solution commits show the completed exercise. You can tell what a commit is by looking at its commit message. 
+Exercise commits contain instructions for completing the exercise, while solution commits show the completed exercise. You can tell what a commit is by looking at its commit message.
 
 For example, **TFCM.01-Exercise-AddGradleDependencies** is the first code step in the Firebase Cloud Messaging (FCM) lesson. This is the exercise commit, and the exercise is called Add Gradle Dependencies.
 
@@ -40,7 +40,7 @@ The branches are also accessible from the drop-down in the "Code" tab
 
 ## Working with the Course Code
 
-Here are the basic steps for working with and completing exercises in the repo. This information is linked whenever you start a new exercise project, so don't feel you need to memorize all of this! In fact, skim it now, make sure that you know generally how to do the different tasks, and then come back when you start your first exercise. 
+Here are the basic steps for working with and completing exercises in the repo. This information is linked whenever you start a new exercise project, so don't feel you need to memorize all of this! In fact, skim it now, make sure that you know generally how to do the different tasks, and then come back when you start your first exercise.
 
 The basic steps are:
 
@@ -73,7 +73,7 @@ git checkout TFCM.01-Exercise-AddGradleDependencies
 
 **Step 3: Find and complete the TODOs**
 
-This branch should always have **Exercise** in the title. Once you've checked out the branch, you'll have the code in the exact state you need. You'll even have TODOs, which are special comments that tell you all the steps you need to complete the exercise. You can easily navigate to all the TODOs using Android Studio's TODO tool. To open the TODO tool, click the button at the bottom of the screen that says TODO. This will display a list of all comments with TODO in the project. 
+This branch should always have **Exercise** in the title. Once you've checked out the branch, you'll have the code in the exact state you need. You'll even have TODOs, which are special comments that tell you all the steps you need to complete the exercise. You can easily navigate to all the TODOs using Android Studio's TODO tool. To open the TODO tool, click the button at the bottom of the screen that says TODO. This will display a list of all comments with TODO in the project.
 
 We've numbered the TODO steps so you can do them in order:
 ![todos](https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58bf00e7_todos/todos.png
@@ -99,6 +99,6 @@ The **Diff** link will take you to a Github diff as seen below:
 ![diff](https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58bf0108_diffsceenshot/diffsceenshot.png
 )
 
-All of the code that was added in the solution is in green, and the removed code (which will usually be the TODO comments) is in red. 
+All of the code that was added in the solution is in green, and the removed code (which will usually be the TODO comments) is in red.
 ## Report Issues
 Notice any issues with a repository? Please file a github issue in the repository.
